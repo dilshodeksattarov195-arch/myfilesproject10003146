@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorurocess",
+        "uuid": 14005992,
+        "checksum": "abbuk8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
